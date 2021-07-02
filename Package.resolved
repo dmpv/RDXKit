@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LensKit",
+        "repositoryURL": "https://github.com/dmpv/LensKit.git",
+        "state": {
+          "branch": null,
+          "revision": "ac5b337dde9e56970fd92a08a1f3e395a25755f9",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "ToolKit",
+        "repositoryURL": "https://github.com/dmpv/ToolKit.git",
+        "state": {
+          "branch": null,
+          "revision": "fd93fb8266bf09acb60fc34ac71733c711867b6b",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
